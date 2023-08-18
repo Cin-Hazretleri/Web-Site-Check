@@ -1,5 +1,7 @@
 [+] Supported Url Types Https + Http
+
 [+] Website Response Time
+
 [+] Ping Value
 
 [+] Developer By Cin Hazretleri
