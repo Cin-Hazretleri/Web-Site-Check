@@ -1,13 +1,26 @@
-Setup > pip install colorama / pip3 install colorama
-Run > python3 Main.py / python Main.py / python2 Main.py
+# Web Site Check Tool
 
-[+] Supported Url Types Https + Http
+![Web Site Check Tool](https://github.com/Cin-Hazretleri/Web-Site-Check/raw/main/assets/tool_screenshot.png)
 
-[+] Website Response Time
+Web Site Check Tool is a utility for measuring the response times of specific websites, as well as calculating ping values.
 
-[+] Ping Value
+## Features
 
-[+] Developer By Cin Hazretleri
+- Supports HTTPS and HTTP URL types
+- Measures website response times
+- Calculates ping values
+- Developed by: Cin Hazretleri
 
+## Installation
 
-![image](https://github.com/Cin-Hazretleri/Web-Site-Check/assets/142589729/d226074f-12dd-4088-9ecc-9e3244664ed2)
+Follow these steps to get started with the project:
+
+1. First, install the `colorama` library:
+
+   ```sh
+   pip install colorama
+
+2. Run Main.py:
+
+   ```sh
+   python Main.py / python3 Main.py
