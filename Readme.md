@@ -1,7 +1,5 @@
 # Web Site Check Tool
 
-![Web Site Check Tool](https://github.com/Cin-Hazretleri/Web-Site-Check/raw/main/assets/tool_screenshot.png)
-
 Web Site Check Tool is a utility for measuring the response times of specific websites, as well as calculating ping values.
 
 ## Features
@@ -24,3 +22,8 @@ Follow these steps to get started with the project:
 
    ```sh
    python Main.py / python3 Main.py
+
+## Screenshots
+
+
+![image](https://github.com/Cin-Hazretleri/Web-Site-Check/assets/142589729/5bc7d8dd-83be-4c8d-8984-b880726947a3)
